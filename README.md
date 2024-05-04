@@ -1,4 +1,4 @@
-### Olá 👋
+## Olá 👋
 
 Meu nome é Eduardo. Tenho 17 anos e conheci a programação aos 14 anos e desde então, venho aprendendo o máximo sobre tecnologia de forma autodidata. Meu objetivo é aprender novas tecnologias e conseguir me desenvolver profissionalmente, criando soluções e novas aplicações.
 
