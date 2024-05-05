@@ -16,5 +16,3 @@ Meu nome é Eduardo. Tenho 17 anos e conheci a programação aos 14 anos, desde 
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-
-Amo muito tecnologia e sempre buscando aprender o máximo possível!
