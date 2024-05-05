@@ -8,7 +8,7 @@ Meu nome é Eduardo. Tenho 17 anos e conheci a programação aos 14 anos, desde 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duzzyn1)](https://github.com/Duzzyn1/github-readme-stats)
 
-### Learning:
+## Learning:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
