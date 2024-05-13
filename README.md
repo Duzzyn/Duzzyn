@@ -8,7 +8,7 @@ Meu nome é Eduardo. Tenho 17 anos e conheci a programação aos 14 anos, desde 
 
 ![Duzzyn GitHub stats](https://github-readme-stats.vercel.app/api?username=Duzzyn1&show_icons=true&theme=dracula)
 
-### Skills
+### Skills:
 
 ![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,mongodb&theme=dark)
 
