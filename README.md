@@ -10,7 +10,7 @@ Meu nome é Eduardo. Tenho 17 anos e conheci a programação aos 14 anos, desde 
 
 ### Skills:
 
-![Skills](https://skillicons.dev/icons?i=nodejs,js,html,css,bootstrap,mongodb,express&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,js,html,css,bootstrap,mongodb,express,mysql&theme=dark)
 
 ### Learning 🚀:
 
