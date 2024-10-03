@@ -6,7 +6,7 @@ Meu nome é Eduardo. Tenho 17 anos e conheci a programação aos 14 anos, desde 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-alves-451156259/)
 
 
-![Duzzyn GitHub stats](https://github-readme-stats.vercel.app/api?username=Duzzyn1&show_icons=true&theme=dracula)
+![Duzzyn GitHub stats](https://github-readme-stats.vercel.app/api?username=Duzzyn&show_icons=true&theme=dracula)
 
 ### Skills:
 
